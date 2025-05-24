@@ -23,4 +23,11 @@
 ```bash
 git clone https://github.com/username/wa-number-checker.git
 cd wa-number-checker
-pip install -r requirements.txt
+pip install request
+
+--
+
+## 🚀Cara penggunaan
+
+```bash
+python3 main.py
