@@ -18,16 +18,10 @@
 
 ---
 
-## ⚙️ Instalasi
+## ⚙️ Instalasi &  🚀Cara penggunaan
 
 ```bash
-git clone https://github.com/username/wa-number-checker.git
+git clone https://github.com/fatillahsyah/WHATSAPP-PHONE-NUMBER-GENERATOR-CHECKER/
 cd wa-number-checker
 pip install request
-
---
-
-## 🚀Cara penggunaan
-
-```bash
 python3 main.py
