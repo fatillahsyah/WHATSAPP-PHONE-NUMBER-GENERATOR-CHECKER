@@ -22,6 +22,6 @@
 
 ```bash
 git clone https://github.com/fatillahsyah/WHATSAPP-PHONE-NUMBER-GENERATOR-CHECKER/
-cd wa-number-checker
+cd WHATSAPP-PHONE-NUMBER-GENERATOR-CHECKER
 pip install request
 python3 main.py
